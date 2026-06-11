@@ -70,19 +70,6 @@ React | Astro | FastAPI | Flask | Node.js | TailwindCSS
 
 ---
 
-## > Featured_Projects
-
-### Foresight
-Markerless AR watch try-on using ARKit, MediaPipe, LiDAR, and computer vision.
-
-### YAP — Your AI Pal
-Local voice-based AI assistant using speech recognition, local LLMs, and text-to-speech.
-
-### BlueBox
-Cyber defense competition platform for secure team collaboration and file sharing.
-
----
-
 ## > Contact
 
 ```bash
