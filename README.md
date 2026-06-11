@@ -1,11 +1,6 @@
 <div align="center">
 
-# ███╗   ██╗ ██████╗  █████╗ ██╗  ██╗
-# ████╗  ██║██╔═══██╗██╔══██╗██║  ██║
-# ██╔██╗ ██║██║   ██║███████║███████║
-# ██║╚██╗██║██║   ██║██╔══██║██╔══██║
-# ██║ ╚████║╚██████╔╝██║  ██║██║  ██║
-# ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Noah+Scott;Cybersecurity+%7C+Systems+%7C+Networking+%7C+AI;Security+Engineer+in+Progress;Building+at+the+edge+of+hardware+and+software)](https://git.io/typing-svg)
 
 ### Cybersecurity • Systems • Networking • AI
 
@@ -13,20 +8,11 @@
 $ whoami
 Noah Scott
 
-$ occupation
-Cybersecurity Engineer
+$ role
+IT & Cybersecurity Specialist
 
-$ education
-B.S. Computer Science (Cybersecurity)
-M.S. Computer Engineering (In Progress)
-
-$ interests
-Offensive Security
-Threat Detection
-AI Security
-Robotics
-Network Engineering
-Embedded Systems
+$ focus
+Threat Detection | Network Security | AI Security | Embedded Systems
 ```
 
 </div>
@@ -37,21 +23,19 @@ Embedded Systems
 
 ```yaml
 name: Noah Scott
+handle: BareMetal-Alchemist
 location: Southern California
-role: Security Engineer
+education:
+  - B.S. Computer Science: Cybersecurity
+  - M.S. Computer Engineering: In Progress
 
-currently_learning:
-  - Threat Hunting
-  - Detection Engineering
-  - Network Security
+interests:
+  - Cybersecurity
+  - Systems Engineering
+  - Networking
+  - Robotics
   - AI Security
   - Embedded Security
-
-background:
-  - IT Support
-  - Security Competitions
-  - Research
-  - Systems Administration
 ```
 
 ---
@@ -59,38 +43,17 @@ background:
 ## > Arsenal
 
 ```text
-Languages
-├── Python
-├── C++
-├── C
-├── JavaScript
-├── TypeScript
-├── Rust
-└── SQL
+Languages:
+Python | C++ | C | JavaScript | TypeScript | SQL | Rust
 
-Security
-├── Wazuh
-├── OpenVAS
-├── Nmap
-├── Wireshark
-├── Sysmon
-├── Active Directory
-└── Linux Hardening
+Security:
+Wazuh | Nmap | Wireshark | Sysmon | Linux Hardening | Active Directory
 
-Infrastructure
-├── Docker
-├── VMware
-├── Proxmox
-├── Windows Server
-├── Linux
-└── Cisco Networking
+Infrastructure:
+Linux | Windows Server | Docker | VMware | Proxmox | Cisco Networking
 
-Development
-├── React
-├── Astro
-├── FastAPI
-├── Flask
-└── Node.js
+Development:
+React | Astro | FastAPI | Flask | Node.js | TailwindCSS
 ```
 
 ---
@@ -99,11 +62,10 @@ Development
 
 ```diff
 + Build secure systems
-+ Learn advanced threat detection
-+ Research AI security
-+ Explore robotics security
-+ Master networking fundamentals
-+ Contribute to open-source projects
++ Improve threat detection skills
++ Study network security deeply
++ Explore AI + robotics security
++ Keep leveling up through labs, projects, and research
 ```
 
 ---
@@ -111,69 +73,19 @@ Development
 ## > Featured_Projects
 
 ### Foresight
+Markerless AR watch try-on using ARKit, MediaPipe, LiDAR, and computer vision.
 
-```bash
-AR + Computer Vision + LiDAR
-
-Objective:
-Create a markerless AR watch try-on platform
-using real-time computer vision tracking.
-```
-
-### YAP (Your AI Pal)
-
-```bash
-Local LLM Assistant
-
-Features:
-- Speech Recognition
-- Local Inference
-- Voice Interaction
-- Conversational AI
-```
+### YAP — Your AI Pal
+Local voice-based AI assistant using speech recognition, local LLMs, and text-to-speech.
 
 ### BlueBox
-
-```bash
-Cyber Defense Competition Platform
-
-Features:
-- Secure File Sharing
-- Team Collaboration
-- Authentication
-- Metadata Analysis
-```
+Cyber defense competition platform for secure team collaboration and file sharing.
 
 ---
 
-## > Certifications
-
-```text
-[✓] CompTIA Security+
-[✓] Computer Systems & Network Administration
-```
-
----
-
-## > Terminal
+## > Contact
 
 ```bash
-$ cat philosophy.txt
-
-Technology is most interesting where disciplines overlap.
-
-Cybersecurity
-    ↳ Networking
-        ↳ Systems
-            ↳ Hardware
-                ↳ Robotics
-                    ↳ AI
-```
-
----
-
-```bash
-$ exit
-
-Connection closed.
+LinkedIn: linkedin.com/in/noahleonardscott
+GitHub:   github.com/BareMetal-Alchemist
 ```
