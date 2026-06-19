@@ -9,10 +9,10 @@ $ whoami
 Noah Scott
 
 $ role
-IT & Cybersecurity Specialist
+Cyber Security Analyst
 
 $ focus
-Threat Detection | Network Security | AI Security | Embedded Systems
+Threat Detection | Network Security | AI Security | Embedded Systems | Pentesting
 ```
 
 </div>
