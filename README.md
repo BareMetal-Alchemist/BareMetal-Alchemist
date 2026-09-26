@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Noah+Scott;Digital+Forensics+%7C+Malware+Analysis+%7C+Engineering+%7C+Threat+Hunting+%7+AI;Cybersecurity+Engineer;Building+at+the+edge+of+hardware+and+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Noah+Scott;DFIR+%7C+Malware+Analysis+%7C+Engineering+%7C+Threat+Hunting+%7+AI;Cybersecurity+Engineer;Building+at+the+edge+of+hardware+and+software)](https://git.io/typing-svg)
 
-### Digital Forensics • Malware Analysis • Engineering • Threat Hunting • AI
+### DFIR • Malware Analysis • Engineering • Threat Hunting • AI
 
 ```bash
 $ whoami
