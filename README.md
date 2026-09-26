@@ -12,7 +12,7 @@ $ role
 Cyber Security Analyst
 
 $ focus
-Threat Detection | Network Security | AI Security | Embedded Systems | Pentesting
+Digital Forensics | Threat Hunting | AI Security | Malware Analysis | Security Engineering
 ```
 
 </div>
@@ -32,8 +32,8 @@ education:
 interests:
   - Cybersecurity
   - Systems Engineering
-  - Networking
-  - Robotics
+  - Forensics
+  - Malware Analysis
   - AI Security
   - Embedded Security
 ```
@@ -44,16 +44,16 @@ interests:
 
 ```text
 Languages:
-Python | C++ | C | JavaScript | TypeScript | SQL | Rust
+Python | C++ | C | JavaScript | Powershell | SQL | KQL/CQL
 
 Security:
 Wazuh | Nmap | Wireshark | Sysmon | Linux Hardening | Active Directory
 
 Infrastructure:
-Linux | Windows Server | Docker | VMware | Proxmox | Cisco Networking
+Linux | Windows | Docker | Azure | Cribl | Palo Alto | Zscaler
 
 Development:
-React | Astro | FastAPI | Flask | Node.js | TailwindCSS
+React | Astro | FastAPI | Flask | Node.js | SwiftUI
 ```
 
 ---
@@ -63,7 +63,7 @@ React | Astro | FastAPI | Flask | Node.js | TailwindCSS
 ```diff
 + Build secure systems
 + Improve threat detection skills
-+ Study network security deeply
++ Improve forensics skills
 + Explore AI + robotics security
 + Keep leveling up through labs, projects, and research
 ```
