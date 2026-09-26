@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Noah+Scott;Cybersecurity+%7C+Systems+%7C+Networking+%7C+AI;Security+Engineer+in+Progress;Building+at+the+edge+of+hardware+and+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Noah+Scott;Digital+Forensics+%7C+Malware+Analysis+%7C+Engineering+%7C+Threat+Hunting+%7+AI;Cybersecurity+Engineer;Building+at+the+edge+of+hardware+and+software)](https://git.io/typing-svg)
 
-### Cybersecurity • Systems • Networking • AI
+### Digital Forensics • Malware Analysis • Engineering • Threat Hunting • AI
 
 ```bash
 $ whoami
 Noah Scott
 
 $ role
-Cyber Security Analyst
+Cybersecurity Engineer
 
 $ focus
 Digital Forensics | Threat Hunting | AI Security | Malware Analysis | Security Engineering
