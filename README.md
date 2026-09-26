@@ -12,7 +12,7 @@ $ role
 Cybersecurity Engineer
 
 $ focus
-Digital Forensics | Threat Hunting | AI Security | Malware Analysis | Security Engineering
+DFIR | Threat Hunting | AI Security | Malware Analysis | Security Engineering
 ```
 
 </div>
